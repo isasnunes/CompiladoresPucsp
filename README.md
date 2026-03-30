@@ -44,3 +44,7 @@ CSv em TSV
 
 <img width="597" height="262" alt="image" src="https://github.com/user-attachments/assets/e84f59b3-bb16-4306-b465-4b5e08f23aa9" />
 <img width="613" height="276" alt="image" src="https://github.com/user-attachments/assets/a0d9bf7b-8310-44ab-b626-f744c83851ed" />
+
+Atividade 4:
+
+<img width="1000" height="141" alt="image" src="https://github.com/user-attachments/assets/29c6361e-330e-41cb-90e2-cc78111094f7" />
