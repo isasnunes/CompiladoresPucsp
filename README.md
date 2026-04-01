@@ -48,3 +48,16 @@ CSv em TSV
 Atividade 4:
 
 <img width="1000" height="141" alt="image" src="https://github.com/user-attachments/assets/29c6361e-330e-41cb-90e2-cc78111094f7" />
+
+Atividade 5:
+  DFA para reconhecer números inteiros:
+<img width="1028" height="970" alt="image" src="https://github.com/user-attachments/assets/e364c460-6c62-40fb-9f4c-8bfc8047f2d6" />
+
+  DFA para identificadores:
+<img width="1078" height="1001" alt="image" src="https://github.com/user-attachments/assets/cd8c7d2c-bbb2-44bc-9979-a5b3611e5002" />
+
+  NFA para operador = e ==:
+
+
+
+Atividade 6:
