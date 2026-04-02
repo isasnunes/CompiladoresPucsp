@@ -37,8 +37,6 @@ def tokenizar(texto):
     tokens = re.findall(regex, texto, re.VERBOSE)
     return tokens
 
-
-
 def main():
     """
     Função principal:
@@ -53,7 +51,6 @@ def main():
         print("Uso: python scanner.py <arquivo.txt>")
         return
 
-    
     arquivo_entrada = sys.argv[1]    #Nome do arquivo de entrada recebido pela linha de comando
     arquivo_saida = "output.txt"    #Nome do arquivo onde os tokens serão salvos
 
