@@ -69,6 +69,7 @@ Atividade 5:
 Atividade 6: O tokenizer da openIA separa position em pos + ition por utilziar o metodo BPE, diferente dos analizadores léxicos, o BPE foca em criar tokens apartir de reconhecimento de padrões e não pela singificancia da palavra
 
 Atividade 7:
+
   Saída em Python:
   ![saida python](https://github.com/user-attachments/assets/121e2272-8df5-457f-8225-e6e6676e2d8e)
 
