@@ -57,7 +57,7 @@ Atividade 5:
 <img width="1078" height="1001" alt="image" src="https://github.com/user-attachments/assets/cd8c7d2c-bbb2-44bc-9979-a5b3611e5002" />
 
   NFA para operador = e ==:
-
+<img width="1211" height="938" alt="image" src="https://github.com/user-attachments/assets/e45416ba-c9ad-472d-8f3d-b82598254a2c" />
 
 
 Atividade 6:
